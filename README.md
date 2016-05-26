@@ -5,7 +5,9 @@ the game-changing concepts of A-Frame, showcase what the community has built
 with A-Frame in the last several months, and present sneak peeks of novel
 experiments that we have rapidly prototyped using A-Frame.
 
-Presentation materials for SFHTML5 WebVR Meetup talk - "A-Frame - VR for Web Developers"
+**[Watch the Talk](https://www.youtube.com/watch?v=wRqoSdPZQBY)**
+
+Presentation materials for SFHTML5 WebVR Meetup talk &mdash; *A-Frame - VR for Web Developers*
 
 Presented alongside [Diego Marcos](https://twitter.com/dmarcos)
 
